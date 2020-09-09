@@ -93,6 +93,10 @@ namespace _4_MethodsChallenge
             }
             else if (z == 4)
             {
+                if (y == 0)
+                {
+                    return result = (y / x);
+                }
                 return result = (x / y);
             }
             else
