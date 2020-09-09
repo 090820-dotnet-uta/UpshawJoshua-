@@ -1,53 +1,51 @@
+using Microsoft.VisualBasic;
 using System;
 
 namespace _3_DataTypeAndVariablesChallenge
 {
     public class Program
     {
-      public static void Main(string[] args)
-      {
-          Console.WriteLine("Hello World!");
+        public static void Main(string[] args)
+        {
+            //your code here
+            //ex = example
+            sbyte exSbyte = -100;
+            Console.WriteLine(exSbyte);
+            byte exByte = 18;
+            Console.WriteLine(exByte);
 
-          byte myByte = 25;
-          Console.WriteLine(myByte);
+            int exInt = 100;
+            Console.WriteLine(exInt);
+            uint exUint = 4200000000;
+            Console.WriteLine(exUint);
 
-          sbyte mySbyte = -15;
-          Console.WriteLine(mySbyte);
+            double exDouble = 56.778;
+            Console.WriteLine(exDouble);
+            float exFloat = -66.5322f;
+            Console.WriteLine(exFloat);
 
-          int myInt = -12318925;
-          Console.WriteLine(myInt);
+            ushort exUshort = 54428;
+            Console.WriteLine(exUshort);
+            short exShort = -10323;
+            Console.WriteLine(exShort);
 
-          uint myUint = 123091;
-          Console.WriteLine(myUint);
+            bool exBool = false;
+            Console.WriteLine(exBool);
+            char exChar = 'J';
+            Console.WriteLine(exChar);
 
-          short myShort = -32768;
-          Console.WriteLine(myShort);
+            string textString = "I control text";
+            Console.WriteLine(textString);
+            string textNum = "20";
+            Console.WriteLine(textNum);
 
-          ushort myUShort = 65535;
-          Console.WriteLine(myUShort);
+            Console.WriteLine($"String when converted to an Int: {Text2Num(textNum)}");
+        }
 
-          float myFloat = -31.1289f;
-          Console.WriteLine(myFloat);
-
-          double myDouble = -12.1231250;
-          Console.WriteLine(myDouble);
-
-          char myCharacter = 'A';
-          Console.WriteLine(myCharacter);
-
-          bool myBool = true;
-          Console.WriteLine(myBool);
-
-          string myText = "I control text";
-          Console.WriteLine(myText);
-
-          string numText = "15";
-          Console.WriteLine(Text2Num(numText));
-      }
-
-      public static int Text2Num(string numText)
-      {
-        throw new NotImplementedException();
-      }
+        public static int Text2Num(string numText)
+        {
+            return int.Parse(numText);
+            throw new NotImplementedException();
+        }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using Xunit;
 using System.Collections.Generic;
+
 namespace _3_DataTypeAndVariablesChallenge.Tests
 {
     public class ProgramTest
@@ -12,6 +13,7 @@ namespace _3_DataTypeAndVariablesChallenge.Tests
             new object[] {"3"},
             new object[] {"4"}
         };
+
         [Theory]
         [MemberData(nameof(_numbers))]
         public void Text2NumShouldParse(string numText)
