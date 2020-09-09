@@ -1,0 +1,4 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\CardExample\obj\Debug\netcoreapp3.1\CardExample.csprojAssemblyReference.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\CardExample\obj\Debug\netcoreapp3.1\CardExample.AssemblyInfoInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\CardExample\obj\Debug\netcoreapp3.1\CardExample.AssemblyInfo.cs
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\CardExample\obj\Debug\netcoreapp3.1\CardExample.csproj.CoreCompileInputs.cache

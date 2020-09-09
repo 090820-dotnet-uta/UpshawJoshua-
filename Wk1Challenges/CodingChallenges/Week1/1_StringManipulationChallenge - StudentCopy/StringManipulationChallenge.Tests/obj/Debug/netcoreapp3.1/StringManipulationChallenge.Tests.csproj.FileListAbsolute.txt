@@ -1,0 +1,2 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\curriculumTopics\CodingChallenges\Week1\1_StringManipulationChallenge - StudentCopy\StringManipulationChallenge.Tests\obj\Debug\netcoreapp3.1\StringManipulationChallenge.Tests.AssemblyInfoInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\curriculumTopics\CodingChallenges\Week1\1_StringManipulationChallenge - StudentCopy\StringManipulationChallenge.Tests\obj\Debug\netcoreapp3.1\StringManipulationChallenge.Tests.AssemblyInfo.cs
