@@ -28,7 +28,7 @@ namespace _4_MethodsChallenge
             Console.WriteLine("What is your name?");
             name = Console.ReadLine();
             return name;
-            throw new NotImplementedException();
+            throw new FormatException();
         }
 
         public static void GreetFriend(string name)
