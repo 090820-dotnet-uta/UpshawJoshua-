@@ -1,0 +1,13 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\4_MethodsChallenge.exe
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\4_MethodsChallenge.deps.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\4_MethodsChallenge.runtimeconfig.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\4_MethodsChallenge.runtimeconfig.dev.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\4_MethodsChallenge.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\4_MethodsChallenge.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\4_MethodsChallenge.csprojAssemblyReference.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\4_MethodsChallenge.AssemblyInfoInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\4_MethodsChallenge.AssemblyInfo.cs
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\4_MethodsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\4_MethodsChallenge.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\4_MethodsChallenge.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\4_Methods\4_MethodsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\4_MethodsChallenge.genruntimeconfig.cache
