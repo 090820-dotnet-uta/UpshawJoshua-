@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 
 namespace _4_MethodsChallenge
@@ -97,7 +97,10 @@ namespace _4_MethodsChallenge
                 {
                     return result = (y / x);
                 }
-                return result = (x / y);
+                else
+                {
+                    return result = (x / y);
+                }   
             }
             else
             {
