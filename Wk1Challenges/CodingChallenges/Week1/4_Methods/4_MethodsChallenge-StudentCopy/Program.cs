@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 
 namespace _4_MethodsChallenge
@@ -28,7 +28,7 @@ namespace _4_MethodsChallenge
             Console.WriteLine("What is your name?");
             name = Console.ReadLine();
             return name;
-            throw new NotImplementedException();
+            throw new FormatException();
         }
 
         public static void GreetFriend(string name)
@@ -93,11 +93,14 @@ namespace _4_MethodsChallenge
             }
             else if (z == 4)
             {
-                if(y == 0)
+                if (y == 0)
                 {
                     return result = (y / x);
                 }
-                return result = (x / y);
+                else
+                {
+                    return result = (x / y);
+                }   
             }
             else
             {
