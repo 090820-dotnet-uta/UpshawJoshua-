@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RPS_Game_NoDB/1.0.0": {
+        "runtime": {
+          "RPS_Game_NoDB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPS_Game_NoDB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

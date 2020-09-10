@@ -1,0 +1,13 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\bin\Debug\netcoreapp3.1\RPS_Game_NoDB.exe
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\bin\Debug\netcoreapp3.1\RPS_Game_NoDB.deps.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\bin\Debug\netcoreapp3.1\RPS_Game_NoDB.runtimeconfig.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\bin\Debug\netcoreapp3.1\RPS_Game_NoDB.runtimeconfig.dev.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\bin\Debug\netcoreapp3.1\RPS_Game_NoDB.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\bin\Debug\netcoreapp3.1\RPS_Game_NoDB.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\obj\Debug\netcoreapp3.1\RPS_Game_NoDB.csprojAssemblyReference.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\obj\Debug\netcoreapp3.1\RPS_Game_NoDB.AssemblyInfoInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\obj\Debug\netcoreapp3.1\RPS_Game_NoDB.AssemblyInfo.cs
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\obj\Debug\netcoreapp3.1\RPS_Game_NoDB.csproj.CoreCompileInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\obj\Debug\netcoreapp3.1\RPS_Game_NoDB.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\obj\Debug\netcoreapp3.1\RPS_Game_NoDB.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\RPS_Game_NoDB\obj\Debug\netcoreapp3.1\RPS_Game_NoDB.genruntimeconfig.cache
