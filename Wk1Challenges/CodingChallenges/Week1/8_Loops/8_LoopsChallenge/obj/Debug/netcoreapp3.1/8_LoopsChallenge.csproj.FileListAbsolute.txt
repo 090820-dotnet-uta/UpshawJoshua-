@@ -1,0 +1,13 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\bin\Debug\netcoreapp3.1\8_LoopsChallenge.exe
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\bin\Debug\netcoreapp3.1\8_LoopsChallenge.deps.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\bin\Debug\netcoreapp3.1\8_LoopsChallenge.runtimeconfig.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\bin\Debug\netcoreapp3.1\8_LoopsChallenge.runtimeconfig.dev.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\bin\Debug\netcoreapp3.1\8_LoopsChallenge.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\bin\Debug\netcoreapp3.1\8_LoopsChallenge.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\obj\Debug\netcoreapp3.1\8_LoopsChallenge.csprojAssemblyReference.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\obj\Debug\netcoreapp3.1\8_LoopsChallenge.AssemblyInfoInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\obj\Debug\netcoreapp3.1\8_LoopsChallenge.AssemblyInfo.cs
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\obj\Debug\netcoreapp3.1\8_LoopsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\obj\Debug\netcoreapp3.1\8_LoopsChallenge.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\obj\Debug\netcoreapp3.1\8_LoopsChallenge.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\8_Loops\8_LoopsChallenge\obj\Debug\netcoreapp3.1\8_LoopsChallenge.genruntimeconfig.cache

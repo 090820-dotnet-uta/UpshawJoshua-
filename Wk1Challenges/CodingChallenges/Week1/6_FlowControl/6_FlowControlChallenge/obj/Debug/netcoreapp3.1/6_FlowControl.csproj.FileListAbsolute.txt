@@ -1,0 +1,13 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\bin\Debug\netcoreapp3.1\6_FlowControl.exe
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\bin\Debug\netcoreapp3.1\6_FlowControl.deps.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\bin\Debug\netcoreapp3.1\6_FlowControl.runtimeconfig.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\bin\Debug\netcoreapp3.1\6_FlowControl.runtimeconfig.dev.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\bin\Debug\netcoreapp3.1\6_FlowControl.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\bin\Debug\netcoreapp3.1\6_FlowControl.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\obj\Debug\netcoreapp3.1\6_FlowControl.csprojAssemblyReference.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\obj\Debug\netcoreapp3.1\6_FlowControl.AssemblyInfoInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\obj\Debug\netcoreapp3.1\6_FlowControl.AssemblyInfo.cs
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\obj\Debug\netcoreapp3.1\6_FlowControl.csproj.CoreCompileInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\obj\Debug\netcoreapp3.1\6_FlowControl.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\obj\Debug\netcoreapp3.1\6_FlowControl.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\6_FlowControl\6_FlowControlChallenge\obj\Debug\netcoreapp3.1\6_FlowControl.genruntimeconfig.cache
