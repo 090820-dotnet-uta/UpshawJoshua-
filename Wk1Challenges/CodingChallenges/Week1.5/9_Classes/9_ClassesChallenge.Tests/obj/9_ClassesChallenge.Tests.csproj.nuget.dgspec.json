@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge.Tests\\9_ClassesChallenge.Tests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge.Tests\\9_ClassesChallenge.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge.Tests\\9_ClassesChallenge.Tests.csproj",
+        "projectName": "9_ClassesChallenge.Tests",
+        "projectPath": "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge.Tests\\9_ClassesChallenge.Tests.csproj",
+        "packagesPath": "C:\\Users\\NeonJ\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NeonJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge\\9_ClassesChallenge.csproj": {
+                "projectPath": "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge\\9_ClassesChallenge.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge\\9_ClassesChallenge.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge\\9_ClassesChallenge.csproj",
+        "projectName": "9_ClassesChallenge",
+        "projectPath": "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge\\9_ClassesChallenge.csproj",
+        "packagesPath": "C:\\Users\\NeonJ\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\NeonJ\\OneDrive\\Documents\\GitHub\\UpshawJoshua-\\Wk1Challenges\\CodingChallenges\\Week1\\9_Classes\\9_ClassesChallenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NeonJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.exe
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.deps.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.runtimeconfig.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.runtimeconfig.dev.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\bin\Debug\netcoreapp3.1\5_OperatorsChallenge.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.csprojAssemblyReference.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.AssemblyInfoInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.AssemblyInfo.cs
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\5_Operators\5_OperatorsChallenge-StudentCopy\obj\Debug\netcoreapp3.1\5_OperatorsChallenge.genruntimeconfig.cache

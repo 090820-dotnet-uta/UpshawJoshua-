@@ -1,0 +1,13 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\bin\Debug\netcoreapp3.1\9_ClassesChallenge.exe
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\bin\Debug\netcoreapp3.1\9_ClassesChallenge.deps.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\bin\Debug\netcoreapp3.1\9_ClassesChallenge.runtimeconfig.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\bin\Debug\netcoreapp3.1\9_ClassesChallenge.runtimeconfig.dev.json
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\bin\Debug\netcoreapp3.1\9_ClassesChallenge.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\bin\Debug\netcoreapp3.1\9_ClassesChallenge.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\obj\Debug\netcoreapp3.1\9_ClassesChallenge.csprojAssemblyReference.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\obj\Debug\netcoreapp3.1\9_ClassesChallenge.AssemblyInfoInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\obj\Debug\netcoreapp3.1\9_ClassesChallenge.AssemblyInfo.cs
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\obj\Debug\netcoreapp3.1\9_ClassesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\obj\Debug\netcoreapp3.1\9_ClassesChallenge.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\obj\Debug\netcoreapp3.1\9_ClassesChallenge.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Wk1Challenges\CodingChallenges\Week1\9_Classes\9_ClassesChallenge\obj\Debug\netcoreapp3.1\9_ClassesChallenge.genruntimeconfig.cache
