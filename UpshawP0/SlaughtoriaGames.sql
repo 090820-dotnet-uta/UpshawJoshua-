@@ -13,6 +13,13 @@ CREATE TABLE CustomerAddress
 	CONSTRAINT CHK_ZipCodeLength CHECK (LEN(Zip)> 0  AND  LEN(Zip) <= 5)
 );
 */
+SELECT * FROM Orders
+SELECT * FROM Customers
+DROP TABLE Orders
+DROP TABLE Inventory 
+DROP TABLE Customers
+DROP TABLE Stores
+DROP TABLE Products
 CREATE TABLE Stores
 (
 	StoreID INT NOT NULL IDENTITY(1,1),			--StoreID is unique (One store has one address) and increments by 1 for every new store

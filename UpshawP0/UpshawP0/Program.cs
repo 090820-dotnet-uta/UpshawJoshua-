@@ -33,12 +33,8 @@ namespace UpshawP0
                     else if(firstMenuChoice ==2)
                     {
                         Customers newCust = new Customers();
-                        //CustomerAddress newAddress = new CustomerAddress();
                         CurrentlyLoggedIn = storeMethods.SignUpNewCustomer(newCust, DBcontext); //After you sign up you are automatically logged in 
-                        //CurrentlyLoggedIn = NewCustomerAddress(DBcontext);
                         DBcontext.Customers.Add(CurrentlyLoggedIn);
-                        //DBcontext.CustomerAddress.Add(newAddress);
-                        //CurrentlyLoggedIn.CustomerAdd = newAddress.CustAddId;       //TODO GET THE ADDRESS SHIT TO WORK MAYBE (NOT A PRIORITY)!!! Sets the customer's address to be the newly entered address 
                         DBcontext.SaveChanges();
                     }
                     else if(firstMenuChoice == 3)

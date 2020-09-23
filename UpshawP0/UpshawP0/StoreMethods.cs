@@ -1067,7 +1067,6 @@ namespace UpshawP0
                                         else
                                         {
                                             orderIdFound = 1;
-                                            Console.WriteLine($"OrderID is {newOrderId}");
                                         }
                                     } while (orderIdFound != 1);
 
