@@ -77,9 +77,7 @@ namespace XUnitTestP0
         [Fact]
         public void FirstMenuChoiceReturnsAValidInteger()
         {
-            using (var sw = new StringWriter())
-            {
-                using (var sr = new StringReader("2"))
+                using (var sr = new StringReader("2\n"))
                 {
                     Console.SetIn(sr);
 
@@ -89,17 +87,13 @@ namespace XUnitTestP0
                     //Assert
                     int menuChoice = storeMethod.UserMenuChoice();
                     Assert.InRange(menuChoice, 1, 3);
-                    sw.Close();
                 }
-            }
         }//Test 3
 
         [Fact]
         public void SecondMenuChoiceReturnsAValidInteger()
         {
-            using (var sw = new StringWriter())
-            {
-                using (var sr = new StringReader("4"))
+                using (var sr = new StringReader("4\n"))
                 {
                     Console.SetIn(sr);
 
@@ -109,9 +103,7 @@ namespace XUnitTestP0
                     //Assert
                     int menuChoice = storeMethod.SecondMenu();
                     Assert.InRange(menuChoice, 1, 6);
-                    sw.Close();
                 }
-            }
         }//Test 4
 
         [Fact]

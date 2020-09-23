@@ -17,7 +17,7 @@ namespace UpshawP0
         /// <summary>
         /// Prints out the ascii for the store because aesthetic matters
         /// </summary>
-        public static void MenuAscii()
+        public  void MenuAscii()
         {
             string ascii = @"
  (                                                                           
@@ -33,7 +33,7 @@ namespace UpshawP0
             Console.WriteLine(ascii);
         }
 
-        public static void OrdersAscii()
+        public  void OrdersAscii()
         {
             string ordersAscii = @"                              /|
                                      |\|
@@ -73,7 +73,7 @@ namespace UpshawP0
             Console.WriteLine($"\t{ordersAscii}");
         }
 
-        public static void GoodbyeAscii()
+        public  void GoodbyeAscii()
         {
             string Goodbye = @"
 
@@ -109,7 +109,7 @@ namespace UpshawP0
             Console.WriteLine($"\t\t\t{Goodbye}");
         }
 
-        public static void PurchaseAscii()
+        public  void PurchaseAscii()
         {
             string Purchase = @"             -='''--.._
               ''--...._\        ,b: --....---.
@@ -244,7 +244,7 @@ namespace UpshawP0
         /// </summary>
         /// <param name="dbContext"></param>
         /// <returns>Customer to be added</returns>
-        public static Customers SignUpNewCustomer(Customers newCust, SGDB2Context dbContext)
+        public Customers SignUpNewCustomer(Customers newCust, SGDB2Context dbContext)
         {
 
             string fName;
@@ -431,7 +431,7 @@ namespace UpshawP0
         /// <summary>
         /// Returns the order history of a store or the current user 
         /// </summary>
-        public static void RetrieveOrderHistory(Customers LoggedIn, SGDB2Context dbContext)
+        public void RetrieveOrderHistory(Customers LoggedIn, SGDB2Context dbContext)
         {
 
             int choice = -1;
@@ -638,7 +638,7 @@ namespace UpshawP0
         /// Prints to the console the list of items available in a store's inventory 
         /// </summary>
         /// <param name="dbContext"></param>
-        public static void GetStoreInventory(SGDB2Context dbContext)
+        public void GetStoreInventory(SGDB2Context dbContext)
         {
             int choice = -1;
             string test;
@@ -802,7 +802,7 @@ namespace UpshawP0
         /// </summary>
         /// <param name="LoggedInCustomer"></param>
         /// <param name="dbContext"></param>
-        public static void PlaceOrders(Customers LoggedInCustomer, SGDB2Context dbContext)
+        public void PlaceOrders(Customers LoggedInCustomer, SGDB2Context dbContext)
         {
             string tester1;
             string tester2;
@@ -1016,8 +1016,6 @@ namespace UpshawP0
                         {
                             int quantityCount = orderQuantities.Count();
                             int cartCount = Cart.Count();
-                            Console.WriteLine($"Number of items in cart = {cartCount}\nNumber of quantities = {quantityCount}\n");
-                            Console.WriteLine($"Num quantities is {quantityCount}");
                             if (Cart.Count == 0)
                             {
                                 Console.WriteLine("\tSorry, looks like your cart is empty.");
@@ -1109,7 +1107,7 @@ namespace UpshawP0
         /// <param name="orderedProduct"></param>
         /// <param name="CurrentlyLoggedIn"></param>
         /// <param name="dbContext"></param>
-        public static void SetNewProductQuantity(int numberOrdered, Products orderedProduct, Customers CurrentlyLoggedIn, SGDB2Context dbContext)
+        public void SetNewProductQuantity(int numberOrdered, Products orderedProduct, Customers CurrentlyLoggedIn, SGDB2Context dbContext)
         {
             var allItemsInventory = (from Products in dbContext.Products
                                      select Products).ToList();
