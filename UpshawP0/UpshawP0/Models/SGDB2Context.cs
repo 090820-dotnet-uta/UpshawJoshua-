@@ -35,7 +35,7 @@ namespace UpshawP0.Models
             modelBuilder.Entity<Customers>(entity =>
             {
                 entity.HasKey(e => e.CustomerId)
-                    .HasName("PK__Customer__A4AE64B86A544D44");
+                    .HasName("PK__Customer__A4AE64B82021F977");
 
                 entity.Property(e => e.CustomerId).HasColumnName("CustomerID");
 
@@ -93,18 +93,18 @@ namespace UpshawP0.Models
                 entity.HasOne(d => d.ItemInInventoryNavigation)
                     .WithMany(p => p.Inventory)
                     .HasForeignKey(d => d.ItemInInventory)
-                    .HasConstraintName("FK__Inventory__ItemI__4E1E9780");
+                    .HasConstraintName("FK__Inventory__ItemI__093F5D4E");
 
                 entity.HasOne(d => d.StoreInventoryNavigation)
                     .WithMany(p => p.Inventory)
                     .HasForeignKey(d => d.StoreInventory)
-                    .HasConstraintName("FK__Inventory__Store__4D2A7347");
+                    .HasConstraintName("FK__Inventory__Store__084B3915");
             });
 
             modelBuilder.Entity<Orders>(entity =>
             {
                 entity.HasKey(e => e.Pk)
-                    .HasName("PK__Orders__32150787D7222FE6");
+                    .HasName("PK__Orders__321507873CFA0500");
 
                 entity.Property(e => e.Pk).HasColumnName("PK");
 
@@ -122,24 +122,24 @@ namespace UpshawP0.Models
                     .WithMany(p => p.Orders)
                     .HasForeignKey(d => d.OrderedProduct)
                     .OnDelete(DeleteBehavior.ClientSetNull)
-                    .HasConstraintName("FK__Orders__OrderedP__589C25F3");
+                    .HasConstraintName("FK__Orders__OrderedP__13BCEBC1");
 
                 entity.HasOne(d => d.StoreOrderedFromNavigation)
                     .WithMany(p => p.Orders)
                     .HasForeignKey(d => d.StoreOrderedFrom)
                     .OnDelete(DeleteBehavior.SetNull)
-                    .HasConstraintName("FK__Orders__StoreOrd__59904A2C");
+                    .HasConstraintName("FK__Orders__StoreOrd__14B10FFA");
 
                 entity.HasOne(d => d.WhoOrderedNavigation)
                     .WithMany(p => p.Orders)
                     .HasForeignKey(d => d.WhoOrdered)
-                    .HasConstraintName("FK__Orders__WhoOrder__5A846E65");
+                    .HasConstraintName("FK__Orders__WhoOrder__15A53433");
             });
 
             modelBuilder.Entity<Products>(entity =>
             {
                 entity.HasKey(e => e.Skunum)
-                    .HasName("PK__Products__5778E6EA8EF93914");
+                    .HasName("PK__Products__5778E6EA3B1BE189");
 
                 entity.Property(e => e.Skunum).HasColumnName("SKUNum");
 
@@ -165,7 +165,7 @@ namespace UpshawP0.Models
             modelBuilder.Entity<Stores>(entity =>
             {
                 entity.HasKey(e => e.StoreId)
-                    .HasName("PK__Stores__3B82F0E127511062");
+                    .HasName("PK__Stores__3B82F0E1E0CBDEBD");
 
                 entity.Property(e => e.StoreId).HasColumnName("StoreID");
 

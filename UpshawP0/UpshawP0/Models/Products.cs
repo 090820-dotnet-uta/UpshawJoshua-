@@ -20,16 +20,14 @@ namespace UpshawP0.Models
         public bool IsBundle { get; set; }
         public int BundleId { get; set; }
 
-        public Products(decimal price, decimal discount)
+        public Products(decimal unitprince, decimal discount)
         {
             Skunum = 90;
-            ProductName = "Thing";
-            ProductDescrip = "Thing thing";
-            UnitPrice = price;
+            ProductName = "thing";
+            ProductDescrip = "thing thing";
+            UnitPrice = unitprince;
             ProductDiscount = discount;
-            IsBundle = false;
-            IsInBundle = false;
-            BundleId = 0;
+
         }
         public virtual ICollection<Inventory> Inventory { get; set; }
         public virtual ICollection<Orders> Orders { get; set; }
