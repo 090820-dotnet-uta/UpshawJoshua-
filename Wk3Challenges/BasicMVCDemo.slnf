@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\..\\curriculumTopics\\Demos\\MvcDemos\\BasicMvcDemo\\BasicMvcDemo.sln",
+    "projects": [
+      "BasicMvcDemo.csproj"
+    ]
+  }
+}

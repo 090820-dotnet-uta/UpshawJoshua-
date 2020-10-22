@@ -1,0 +1,25 @@
+•	(True)/False: Kubernetes can support Docker containers
+•	True/(False): Control plane components can’t be run on any machine in the cluster
+•	True/(False): If the [name] command is excluded from the KubeCLT syntax, the default name for the resource will be given.
+•	(True)/False: Typically, deployments should be used instead of directly using ReplicaSets.
+•	A Cluster consists of worker machines called nodes that run what?
+o	(Containerized applications)
+o	API routing and management 
+o	Data stored in the etcd
+o	Methods and processes that automatically containerize applications on starting
+•	Which of these does Kubernetes NOT provide? 
+o	(Tightly coupled resource grouping)
+o	Scaling
+o	Failover
+o	Deployment patterns
+•	What does KubeCLT give you control over? 
+o	Control plane
+o	(Clusters)
+o	Etcd
+o	Kubernetes controller manager
+•	 Which of these is true of Azure Kubernetes Service (AKS)?
+o	Handles the processes required to connect clusters to the Kubernetes API
+o	Manages and maintains the agent nodes
+o	Helps prevent the use of Kubernetes role-based access controls.
+o	(Allows a managed Kubernetes cluster to be deployed to Azure.)
+
