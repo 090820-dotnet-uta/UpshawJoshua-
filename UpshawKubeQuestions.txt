@@ -1,25 +1,40 @@
-•	(True)/False: Kubernetes can support Docker containers
-•	True/(False): Control plane components can’t be run on any machine in the cluster
-•	True/(False): If the [name] command is excluded from the KubeCLT syntax, the default name for the resource will be given.
-•	(True)/False: Typically, deployments should be used instead of directly using ReplicaSets.
-•	A Cluster consists of worker machines called nodes that run what?
-o	(Containerized applications)
+•	(CHAPTER 2) Correct:(True)/False: Kubernetes can support Docker containers
+	https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/#docker
+
+•	(CHAPTER 1) True/ Correct:(False): Nodes can ONLY be run on a virtual machine system.
+	https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/#VM
+
+•	(CHAPTER 4) True/ Correct:(False): Each pod has a different IP address to keep users from accessing the same instance of the application.
+	https://kubernetes.io/docs/tutorials/kubernetes-basics/expose/expose-intro/#unique
+
+•	(CHAPTER 5) Correct:(True)/False: Typically, scaling is done by increasing the number of replicas on deployment.
+	https://kubernetes.io/docs/tutorials/kubernetes-basics/scale/scale-intro/#scaling
+
+•	(CHAPTER 1) A Cluster consists of nodes that contain...?
+o	A Kubelet (correct)
 o	API routing and management 
 o	Data stored in the etcd
 o	Methods and processes that automatically containerize applications on starting
-•	Which of these does Kubernetes NOT provide? 
-o	(Tightly coupled resource grouping)
-o	Scaling
-o	Failover
-o	Deployment patterns
-•	What does KubeCLT give you control over? 
+	https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-intro/#kubelet
+
+•	(CHAPTER 3) What does a pod model? 
+o	Application specific logical host (correct)
+o	Container Scaling
+o	ReplicaSet config file
+o	The Azure Web Application
+	https://kubernetes.io/docs/tutorials/kubernetes-basics/explore/explore-intro/#pod-models
+
+•	(CHAPTER 2)What does KubeCLT give you the ability to interact with? 
 o	Control plane
-o	(Clusters)
+o	Clusters (correct)
 o	Etcd
 o	Kubernetes controller manager
-•	 Which of these is true of Azure Kubernetes Service (AKS)?
-o	Handles the processes required to connect clusters to the Kubernetes API
-o	Manages and maintains the agent nodes
-o	Helps prevent the use of Kubernetes role-based access controls.
-o	(Allows a managed Kubernetes cluster to be deployed to Azure.)
+	https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/#interact
+
+•	(CHAPTER 6) How does Kubernetes allow applications to be available at all times?
+o	By reconnecting clusters to the Kubernetes API intermittenly
+o	By updating the container template rather than the pod
+o	By altering the uses of Kubernetes role-based access controls.
+o	By using rolling updates to update pod instances with new ones (correct)
+	https://kubernetes.io/docs/tutorials/kubernetes-basics/update/update-intro/#rolling-updates
 
