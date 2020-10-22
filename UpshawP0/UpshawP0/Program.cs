@@ -28,12 +28,12 @@ namespace UpshawP0
                     if(firstMenuChoice == 1)
                     {
                         Customers newCust = new Customers();
-                        CurrentlyLoggedIn = storeMethods.Login(DBcontext);
+                        CurrentlyLoggedIn = Login(DBcontext);
                     }
                     else if(firstMenuChoice ==2)
                     {
                         Customers newCust = new Customers();
-                        CurrentlyLoggedIn = storeMethods.SignUpNewCustomer(newCust, DBcontext); //After you sign up you are automatically logged in 
+                        CurrentlyLoggedIn = SignUpNewCustomer(newCust, DBcontext); //After you sign up you are automatically logged in 
                         DBcontext.Customers.Add(CurrentlyLoggedIn);
                         DBcontext.SaveChanges();
                     }
@@ -93,6 +93,7 @@ namespace UpshawP0
                  |___/                                                        ";
             Console.WriteLine("\t\t\tWelcome to...\t");
             Console.WriteLine(ascii);
+            Console.WriteLine("\t\t\tWhere true 5head gamers shop!\t");
         }
 
         public void OrdersAscii()
@@ -226,7 +227,7 @@ namespace UpshawP0
         /// </summary>
         /// <param name="dbContext"></param>
         /// <returns>Returns a customer object</returns>
-        public Customers Login(SGDB2Context dbContext)
+        public static Customers Login(SGDB2Context dbContext)
         {
             Customers cust = new Customers();
             string userName;
@@ -248,6 +249,7 @@ namespace UpshawP0
                 }
                 else
                 {
+
                     foreach (var x in dbContext.Customers) //Loops through customers to find a match between the entered username and an existing one
                     {
                         if (x.UserName == userName) //If a match is found, do nothing and continue onto password
@@ -306,7 +308,7 @@ namespace UpshawP0
         /// </summary>
         /// <param name="dbContext"></param>
         /// <returns>Customer to be added</returns>
-        public Customers SignUpNewCustomer(Customers newCust, SGDB2Context dbContext)
+        public static Customers SignUpNewCustomer(Customers newCust, SGDB2Context dbContext)
         {
 
             string fName;
@@ -1104,7 +1106,7 @@ namespace UpshawP0
                             {
                                 for (int i = 0; i < cartCount; i++)
                                 {
-                                    orderTotal += method.GetItemTotal(orderQuantities[i], Cart[i], dbContext); //Get the total price of each item in the cart, the end result is the orderTotal
+                                    orderTotal += GetItemTotal(orderQuantities[i], Cart[i], dbContext); //Get the total price of each item in the cart, the end result is the orderTotal
                                     SetNewProductQuantity(orderQuantities[i], Cart[i], LoggedInCustomer, dbContext);
                                     Console.WriteLine($"\tDEBUG: {orderQuantities[i]} of '{Cart[i].ProductName}' ordered at ${Cart[i].UnitPrice} with a {Cart[i].ProductDiscount}% discount...");
 
@@ -1131,8 +1133,6 @@ namespace UpshawP0
                                             orderIdFound = 1;
                                         }
                                     } while (orderIdFound != 1);
-
-
                                 }
 
                                 //Create a new order object for each item in the cart linked by orderID
@@ -1218,7 +1218,7 @@ namespace UpshawP0
         /// <param name="orderedItem"></param>
         /// <param name="dbContext"></param>
         /// <returns>The total price of an item</returns>
-        public decimal GetItemTotal(int numberOrdered, Products orderedItem, SGDB2Context dbContext)
+        public static decimal GetItemTotal(int numberOrdered, Products orderedItem, SGDB2Context dbContext)
         {
             decimal itemTotal = numberOrdered * (orderedItem.UnitPrice * (1 - orderedItem.ProductDiscount)); //Account for discount 
             return Math.Round(itemTotal, 2); //2 decimal points
@@ -1229,7 +1229,7 @@ namespace UpshawP0
         /// </summary>
         /// <param name="itemTotals"></param>
         /// <returns>Decimal9</returns>
-        public double GetOrderTotal(double itemTotals)
+        public static double GetOrderTotal(double itemTotals)
         {
             return Math.Round(itemTotals, 2);
         }

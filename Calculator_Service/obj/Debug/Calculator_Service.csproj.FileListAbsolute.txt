@@ -1,0 +1,7 @@
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Calculator_Service\bin\Debug\Calculator_Service.dll.config
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Calculator_Service\bin\Debug\Calculator_Service.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Calculator_Service\bin\Debug\Calculator_Service.pdb
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Calculator_Service\obj\Debug\Calculator_Service.csprojAssemblyReference.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Calculator_Service\obj\Debug\Calculator_Service.csproj.CoreCompileInputs.cache
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Calculator_Service\obj\Debug\Calculator_Service.dll
+C:\Users\NeonJ\OneDrive\Documents\GitHub\UpshawJoshua-\Calculator_Service\obj\Debug\Calculator_Service.pdb
